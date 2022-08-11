@@ -1,11 +1,11 @@
-<h1 align="left">👋 Hello! My name is Pamela Maia and my nickname is "Pam"! :elephant:</h1>
+<h1 align="left">👋 Hello! My name is Pamela Maia and my nickname is "Pam"!</h1>
 <h3 align="left">Welcome to my Github profile.</h3>
 
-- I'm 26 years old from Brazil(São Paulo).:earth_americas:
+- I'm 32 years old from Brazil(São Paulo).:earth_americas:
 
-- 📫 How to reach me **johnny.arruda@objective.com.br**
+- 📫 How to reach me **pamela.maia@objective.com.br**
 
-- ⚡ Fun fact **I love playing Cs Go** :video_game::gun::bomb:
+- ⚡ Fun fact **I love reading and I love watching horror and superhero movies**
 
 ```php
 <?php
