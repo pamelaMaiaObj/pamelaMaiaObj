@@ -95,10 +95,3 @@ class About extends Me
     <img src="https://img.shields.io/badge/-Facebook-%231B74E4?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>&nbsp;
 </p>
-
-<h3 align="left">Github Stats:</h3>
-<p align="left">
-  <a href="https://github.com/pamelaMaiaObj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaMaiaObj&layout=compact&langs_count=20&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamelaMaiaObj&show_icons=true&theme=dracula&include_all_commits=true&repo=ebanx"/>
-</p>
