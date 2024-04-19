@@ -64,7 +64,7 @@ class About extends Me
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>&nbsp;
     <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/laravel/art/d5f5e725c27f877ed032225fe0b00afee9337d0f/laravel-logo.svg" alt="laravel" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://expressjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -99,6 +99,6 @@ class About extends Me
 <h3 align="left">Github Stats:</h3>
 <p align="left">
   <a href="https://github.com/pamelaMaiaObj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaMaiaObj&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamelaMaiaObj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaMaiaObj&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamelaMaiaObj&show_icons=true&theme=dracula&include_all_commits=true&repo=ebanx"/>
 </p>
