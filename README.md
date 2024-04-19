@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello! My name is Pamela Maia and my nickname is "Pam"!</h1>
 <h3 align="left">Welcome to my Github profile.</h3>
 
-- I'm 32 years old from Brazil(São Paulo).:earth_americas:
+- I'm 33 years old from Brazil(São Paulo).🌎
 
 - 📫 How to reach me **pamela.maia@objective.com.br**
 
